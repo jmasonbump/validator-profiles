@@ -1,13 +1,13 @@
 ---
-Moniker: Figment Networks
+Moniker: Figment
 Validator: terravaloper15cupwhpnxhgylxa8n4ufyvux05xu864jcv0tsw
 ---
 
-# Figment Networks
+# Figment
 
 
 
 ### Website
 
-https://figment.network
+https://figment.io
 
